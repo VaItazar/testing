@@ -1,8 +1,8 @@
 def square():
-    return print("Tvoj br^2 je:",round(float(input("koji je tvoj broj? "))**2, 3))
+    print("Tvoj br^2 je:",round(float(input("koji je tvoj broj? "))**2, 3))
 
 def cao():
-    return print("Cao,", input("Kako se zoves? ").title().strip())
+    print("Cao,", input("Kako se zoves? ").title().strip())
 
 def main():
     print("Welcome.")
@@ -17,16 +17,15 @@ main()
 
  # ----- Kako kod moze da izgleda kada bih pozivao funkcije sa drugim argumentom: -----
 
-def square1(n):
-    print("Tvoj br^2 je:",n)
+def square1():
+    return int(input("koji je tvoj drugi broj? "))**2
 
-def cao1(name):
-    print("Cao,",name)
+def cao1():
+    return input("Kako se zoves opet? ")
+
 
 def main1():
-    ime=input("Kako se zoves opet? ")
-    x=int(input("koji je tvoj drugi broj? "))
-    square1(x**2)
-    cao1(ime)
+    print("Tvoj br^2 je:",square1())
+    print("Cao,",cao1())
 
 main1()
