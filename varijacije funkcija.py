@@ -32,5 +32,3 @@ main()
 # ova situacija je bolja od ostalih jer ovde se sigurno zna da treba da se input samo odstampa, a na primer kad bih hteo da se nesto da tim input-om uradi,
 # --> da se izracuna nesto ili da se bilo sta radi onda je bolja situacija prva. Ako hocemo da nam se uvek stampa a da mi samo jednom za to stampanje unesemo input,
 # --> onda je bolja situacija dva.
-#fzsdfds
-#dgf
