@@ -1,0 +1,7 @@
+-match, case
+-if, elif, elif
+-return
+-input, print
+-functions
+-f string
+-string functions
