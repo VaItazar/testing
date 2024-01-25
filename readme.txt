@@ -1,6 +1,10 @@
 -match, case
 -if, elif, elif
 -return
+-logic operators
+-math operators
+-bool operators
+-moduo
 -input, print
 -functions
 -f string
