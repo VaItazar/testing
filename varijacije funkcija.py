@@ -24,7 +24,7 @@ main(input())
 
 # VARIJACIJA 3 - DOBAR REZULTAT
 def main():
-    print(input("?"))
+    print(input())
 
 main()
 
