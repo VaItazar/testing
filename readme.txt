@@ -9,3 +9,6 @@
 -functions
 -f string
 -string functions
+-while, for
+-lists
+-dictionaries
