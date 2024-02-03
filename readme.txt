@@ -1,13 +1,6 @@
--match, case
--if, elif, elif
--return
--logic operators
--math operators
--bool operators
--input, print
--functions
--f string
--build-in string methods
+-if, elif, elif, match
+-logic, math and bool operators
+-input(), print(), functions
+-build-in string methods and f-string
 -while, for
--lists
--dictionaries
+-lists and dictionaries
