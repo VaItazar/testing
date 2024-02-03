@@ -4,11 +4,10 @@
 -logic operators
 -math operators
 -bool operators
--moduo
 -input, print
 -functions
 -f string
--string functions
+-build-in string methods
 -while, for
 -lists
 -dictionaries
